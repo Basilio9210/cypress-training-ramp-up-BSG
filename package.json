@@ -1,0 +1,22 @@
+{
+  "name": "cypress-training",
+  "version": "1.0.0",
+  "description": "This is a workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Basilio9210/cypress-training-ramp-up-BSG.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Basilio9210",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Basilio9210/cypress-training-ramp-up-BSG/issues"
+  },
+  "homepage": "https://github.com/Basilio9210/cypress-training-ramp-up-BSG#readme"
+}
