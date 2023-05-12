@@ -4,7 +4,8 @@
   "description": "This is a workshop",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "test": "cypress open",
+    "test:open": "cypress open"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Basilio9210/cypress-training-ramp-up-BSG/issues"
   },
-  "homepage": "https://github.com/Basilio9210/cypress-training-ramp-up-BSG#readme"
+  "homepage": "https://github.com/Basilio9210/cypress-training-ramp-up-BSG#readme",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
 }
